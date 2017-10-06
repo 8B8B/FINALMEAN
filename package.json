@@ -1,10 +1,10 @@
 {
-  "name": "mean",
+  "name": "meanapp",
   "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
   "version": "0.4.2",
   "meanjs-version": "0.4.2",
   "private": false,
-  "author": "8b",
+  "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
